@@ -1,0 +1,5 @@
+﻿  CI411_Week9.cpp
+  GameObjects.cpp
+C:\Users\th800\OneDrive - University of Brighton\University Work\th800_modules\CI411 - Games Programming\Workshops\Week 9\CI411_Week9\GameObjects.cpp(42,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CI411_Week9.vcxproj -> C:\Users\th800\OneDrive - University of Brighton\University Work\th800_modules\CI411 - Games Programming\Workshops\Week 9\CI411_Week9\x64\Debug\CI411_Week9.exe
